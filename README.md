@@ -1,4 +1,4 @@
-### Hi there, I'm Mert - aka Portfolio[(www.mertkaraca.gf)] 👋
+### Hi there, I'm Mert - aka [Portfolio](www.mertkaraca.gf) 👋
 
 ## I'm a Developer, Designer and Buddy!!
 
