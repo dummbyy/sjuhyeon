@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **how to build Special AI with Python**
 
-- 👨‍💻 All of my projects are available at [www.mertkaraca.ml](www.mertkaraca.ml)
+- 👨‍💻 All of my projects are available at [www.sjuhyeon.dev](www.sjuhyeon.dev)
 
 - 💬 Ask me about **NodeJS, MySQL, C#**
 
