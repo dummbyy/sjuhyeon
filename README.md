@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://sjuhyeon.dev
 
-- 💬 Ask me about **NodeJS, MySQL, C#**
+- 💬 Ask me about **C, C#, C++**
 
 - 📫 How to reach me **https://discord.com/users/767514178310766652**
 
