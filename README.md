@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mert Karaca</h1>
+ <h1 align="center">Hi 👋, I'm Mert Karaca</h1>
 <h3 align="center">Full Stack Developer from Japan</h3>
 
 - 🌱 I’m currently **developing an engine with c++ and c#**
+
+- 🗣️ Languages i know **Turkish, Norwegian(bokmål), English, Japanese**
 
 - 👨‍💻 All of my projects are available at https://sjuhyeon.dev
 
