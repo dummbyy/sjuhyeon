@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Karaca</h1>
 <h3 align="center">Full Stack Developer from Japan</h3>
 
-- 🌱 I’m currently learning **how to build Special AI with Python**
+- 🌱 I’m currently **developing an engine with c++ and c#**
 
 - 👨‍💻 All of my projects are available at https://sjuhyeon.dev
 
