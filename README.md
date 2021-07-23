@@ -1,5 +1,5 @@
- <h1 align="center">Hi 👋, I'm Mert Karaca</h1>
-<h3 align="center">Full Stack Developer from Japan</h3>
+ <h1 align="center">Hei 👋, Jeg er Mert Karaca</h1>
+<h3 align="center">Spillutvikler fra Japan</h3>
 
 - 🌱 Jeg for tiden **utvikler mitt eget spill med Unity Engine**
 
