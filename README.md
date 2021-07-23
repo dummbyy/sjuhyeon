@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Mert Karaca</h1>
 <h3 align="center">Full Stack Developer from Japan</h3>
 
-- 🌱 I’m currently **developing an engine with c++ and c#**
+- 🌱 I’m currently **developing my own game with Unity Engine**
 
 - 🗣️ Languages i know **Turkish, Norwegian(bokmål), English, Japanese**
 
