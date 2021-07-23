@@ -1,28 +1,57 @@
- <h1 align="center">Hei 👋, Jeg er Mert Karaca</h1>
-<h3 align="center">Spillutvikler fra Japan</h3>
-
-- 🌱 Jeg for tiden **utvikler mitt eget spill med Unity Engine**
-
-- 🗣️ Språk jeg kan **Engelsk, Svensk, Norsk, Japansk, Tyrkisk**
-
-- 👨‍💻 Alle prosjektene mine er tilgjengelige på **https://sjuhyeon.dev**
-
-- 💬 Spør meg om **C#, C++**
- 
-- 📫 Hvordan nå meg ** https: //discord.com/users/767514178310766652**
-
-- ⚡ Hva liker jeg **elsker å høre på musikk og tegne**
-
-<h3 align="left">Ta kontakt med meg:</h3>
-<p align="left">
-<a href="https://dev.to/merutsusama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="merutsusama" height="30" width="40" /></a>
-<a href="https://twitter.com/merutsusama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="merutsusama" height="30" width="40" /></a>
-<a href="https://instagram.com/merutsu.cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="merutsu.cs" height="30" width="40" /></a>
-<a href="https://discord.com/users/767514178310766652" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="loltr" height="30" width="40" /></a>
+<body>
+<h1 align="center">~ 💖 𝓥𝓮𝓵𝓴𝓸𝓶𝓶𝓮𝓷 𝓽𝓲𝓵 𝓶𝓲𝓷 𝓟𝓻𝓸𝓯𝓲𝓵 💖 ~</h1>
+<br>
+<div align="center">
+<img src="https://i2.wp.com/i.pinimg.com/originals/f6/86/8c/f6868ca948c21ae701b1dc7178ae2a4f.gif">
+</div>
+<br>
+<div>
+<h2 align="center"> 🦊 ~ 𝓞𝓶 𝓶𝓮𝓰 ~ 🦊 </h2>
+<img src="https://media.tenor.com/images/9e3ee0bb99e7c7e898e7fb23906885d4/tenor.gif" align="right">
+<li>
+<b>Navn:</b> Mert</li>
+<li>
+<b>Elsker:</b> du! og spill -///-
+</li>
+<li>
+<b>Kjønn:</b> han/hans/Mann
+</li>
+<li>
+<b>Hobbyer:</b> Lære nye ting, Grafisk design, Spillutvikling
+</li>
+<li>
+<b>Jobber @:</b> Xuply | ejs.team
+</li>
+<br>
+<p><b>     Spesiell takk:<br>
+                  HeaveN.ejs</b></p>
+</div>
+<div>
+<h2 align="left">            ~ 📇 𝓚𝓾𝓷𝓷𝓼𝓴𝓪𝓹 📇 ~</h2>
+<p>
+<img src="https://i.pinimg.com/originals/d6/d6/a0/d6d6a01389c78b441c51fe4eed3d6054.gif"  align="right">
+</div>
+<div>
+<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
+ <img src="https://img.shields.io/badge/C++%20-005aeb.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-9e119a?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/UE4-100000?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-3dc2ff?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/><br><br>
+Mesteparten av tiden min blir brukt på å lage spill med enhetsmotor, det blir veldig kjedelig noen ganger -, -. Men det har fortsatt sin morsomme side. Noen ganger lurer jeg på hvorfor jeg gjør denne dritten, men det er fortsatt bedre å gjøre det jeg elsker.
 </p>
-
-<h3 align="left">Språk og verktøy:</h3>
-<p align="left"> <a href="https://www.tutorialspoint.com/objective_c/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </a><a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjuhyeon&show_icons=true&locale=en" alt="sjuhyeon" /></p>
+<br>
+<h2>           📝 ~ 𝓚𝓸𝓷𝓽𝓪𝓴𝓽 𝓶𝓮 ~ 📝</h2>
+<img src="https://i.pinimg.com/originals/d5/b6/a7/d5b6a7ee8580da0174c8d243f8e41ec4.gif" align="right" width="323" height="auto">
+<br>
+<p align="center">Here er noen av mine<br>
+mest brukt s-s-sociaw tingene >~< xoxox</p>
+<p align="center"><a href="https://twitter.com/MerutsuSama" target="_blank"><img src="https://img.shields.io/badge/MerutsuSama%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/sjuhyeon%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitch.tv/merutsudesu" target="_blank"><img src="https://img.shields.io/badge/merutsudesu%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+</div>
+<br>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓪𝓴𝓴 𝓯𝓸𝓻 𝓪𝓽 𝓭𝓾 𝓵𝓮𝓼𝓽𝓮! ~ 💖</h2>
+<div align="center">
+<img src="https://i.pinimg.com/originals/05/da/fa/05dafa696ac14f8d379401a3623264cc.gif" width="550" height="auto">
+</div>
+<hr>
+</div>
+</div>
+</body>
