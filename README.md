@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently **developing my own game with Unity Engine**
 
-- 🗣️ Languages i know **🇺🇸, 🇸🇪, 🇳🇴, 🇯🇵, 🇹🇷**
+- 🗣️ Languages i know **English, Swedish, Norwegian, Japanese, Turkish **
 
 - 👨‍💻 All of my projects are available at https://sjuhyeon.dev
 
