@@ -38,7 +38,7 @@ Mesteparten av tiden min blir brukt på å lage spill med enhetsmotor, det blir 
 </p>
 <br>
 <h2>           📝 ~ 𝓚𝓸𝓷𝓽𝓪𝓴𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.pinimg.com/originals/d5/b6/a7/d5b6a7ee8580da0174c8d243f8e41ec4.gif" align="right" width="320" height="auto">
+<img src="https://i.pinimg.com/originals/d5/b6/a7/d5b6a7ee8580da0174c8d243f8e41ec4.gif" align="right" width="300" height="auto">
 <br>
 <p align="center">Here er noen av mine<br>
 mest brukt s-s-sociaw tingene >~< xoxox</p>
