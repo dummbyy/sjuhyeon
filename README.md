@@ -1,5 +1,5 @@
 <body>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true)](https://discord.com/users/94490510688792576)  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576)](https://discord.com/users/94490510688792576)  
 <h1 align="center">~ 💖 𝓥𝓮𝓵𝓴𝓸𝓶𝓶𝓮𝓷 𝓽𝓲𝓵 𝓶𝓲𝓷 𝓟𝓻𝓸𝓯𝓲𝓵 💖 ~</h1>
 <br>
 <div align="center">
