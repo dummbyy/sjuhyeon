@@ -32,7 +32,7 @@
 <img src="https://i.pinimg.com/originals/d6/d6/a0/d6d6a01389c78b441c51fe4eed3d6054.gif"  align="right">
 </div>
 <div>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
+<p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
  <img src="https://img.shields.io/badge/C++%20-005aeb.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-9e119a?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/UE4-100000?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-3dc2ff?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/><br><br>
 Mesteparten av tiden min blir brukt på å lage spill med enhetsmotor, det blir veldig kjedelig noen ganger -, -. Men det har fortsatt sin morsomme side. Noen ganger lurer jeg på hvorfor jeg gjør denne dritten, men det er fortsatt bedre å gjøre det jeg elsker.
 </p>
