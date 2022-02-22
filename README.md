@@ -2,11 +2,11 @@
 <h1 align="center">~ 💖 𝓥𝓮𝓵𝓴𝓸𝓶𝓶𝓮𝓷 𝓽𝓲𝓵 𝓶𝓲𝓷 𝓟𝓻𝓸𝓯𝓲𝓵 💖 ~</h1>
 <br>
 <div align="center">
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752469034997514305)](https://discord.com/users/752469034997514305)
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓞𝓶 𝓶𝓮𝓰 ~ 🦊 </h2>
 <img src="https://media.tenor.com/images/9e3ee0bb99e7c7e898e7fb23906885d4/tenor.gif" align="right">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752469034997514305)](https://discord.com/users/752469034997514305)
 <li>
 <b>Navn:</b> Mert</li>
 <li>
