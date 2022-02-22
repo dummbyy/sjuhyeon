@@ -2,6 +2,7 @@
 <h1 align="center">~ 💖 𝓥𝓮𝓵𝓴𝓸𝓶𝓶𝓮𝓷 𝓽𝓲𝓵 𝓶𝓲𝓷 𝓟𝓻𝓸𝓯𝓲𝓵 💖 ~</h1>
 <br>
 <div align="center">
+  x
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752469034997514305?theme=dark&bg=008E89&animated=true&hideDiscrim=true&hideTimestamp=false&idleMessage=I%27m%20doin%20nothng%20.x)](https://discord.com/users/752469034997514305)
   </div>
 <br>
