@@ -3,6 +3,7 @@
 <br>
 <div align="center">
 <img src="https://i2.wp.com/i.pinimg.com/originals/f6/86/8c/f6868ca948c21ae701b1dc7178ae2a4f.gif">
+[![Discord Presence](https://lanyard.cnrad.dev/api/752469034997514305)](https://discord.com/users/752469034997514305)
 </div>
 <br>
 <div>
