@@ -3,10 +3,10 @@
 <br>
 <div align="center">
 <br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/752469034997514305)](https://discord.com/users/752469034997514305)
 <div>
 <h2 align="center"> 🦊 ~ 𝓞𝓶 𝓶𝓮𝓰 ~ 🦊 </h2>
 <img src="https://media.tenor.com/images/9e3ee0bb99e7c7e898e7fb23906885d4/tenor.gif" align="right">
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752469034997514305)](https://discord.com/users/752469034997514305)
 <li>
 <b>Navn:</b> Mert</li>
 <li>
