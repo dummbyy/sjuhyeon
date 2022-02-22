@@ -3,8 +3,9 @@
 <br>
 <div align="center">
   x
+ [![Discord Presence]()](https://discord.com/users/752469034997514305)
  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752469034997514305?theme=dark&bg=008E89&animated=true&hideDiscrim=true&hideTimestamp=false&idleMessage=I%27m%20doin%20nothng%20.x)](https://discord.com/users/752469034997514305)
-  </div>
+</div>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓞𝓶 𝓶𝓮𝓰 ~ 🦊 </h2>
