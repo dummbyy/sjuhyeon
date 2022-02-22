@@ -2,7 +2,7 @@
 <h1 align="center">~ 💖 𝓥𝓮𝓵𝓴𝓸𝓶𝓶𝓮𝓷 𝓽𝓲𝓵 𝓶𝓲𝓷 𝓟𝓻𝓸𝓯𝓲𝓵 💖 ~</h1>
 <br>
 <div align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/752469034997514305)](https://discord.com/users/752469034997514305)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/752469034997514305)](https://discord.com/users/752469034997514305)
 </div>
 <br>
 <div>
