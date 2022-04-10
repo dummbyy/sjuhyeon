@@ -6,7 +6,7 @@
 <img src="https://i2.wp.com/i.pinimg.com/originals/f6/86/8c/f6868ca948c21ae701b1dc7178ae2a4f.gif">
  
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/752469034997514305?heme=dark&bg=085E7D&animated=true&hideDiscrim=true&hideTimestamp=false&idleMessage=Idfdsf)](https://discord.com/users/752469034997514305)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/688448253737697291?heme=dark&bg=085E7D&animated=true&hideDiscrim=true&hideTimestamp=false&idleMessage=Idfdsf)](https://discord.com/users/688448253737697291)
 <div>
 <h2 align="center"> 🦊 ~ 𝓞𝓶 𝓶𝓮𝓰 ~ 🦊 </h2>
 <img src="https://media.tenor.com/images/9e3ee0bb99e7c7e898e7fb23906885d4/tenor.gif" align="right">
