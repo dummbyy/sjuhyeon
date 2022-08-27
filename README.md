@@ -1,65 +1,28 @@
-<body>
-<h1 align="center">~ 💖 𝓥𝓮𝓵𝓴𝓸𝓶𝓶𝓮𝓷 𝓽𝓲𝓵 𝓶𝓲𝓷 𝓟𝓻𝓸𝓯𝓲𝓵 💖 ~</h1>
-<br>
-<div align="center">
-<br>
-<img src="https://i2.wp.com/i.pinimg.com/originals/f6/86/8c/f6868ca948c21ae701b1dc7178ae2a4f.gif">
- 
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/688448253737697291?heme=dark&bg=085E7D&animated=true&hideDiscrim=true&hideTimestamp=false&idleMessage=Idfdsf)](https://discord.com/users/688448253737697291)
-<div>
-<h2 align="center"> 🦊 ~ 𝓞𝓶 𝓶𝓮𝓰 ~ 🦊 </h2>
-<img src="https://media.tenor.com/images/9e3ee0bb99e7c7e898e7fb23906885d4/tenor.gif" align="right">
-<li>
-<b>Navn:</b> Mert</li>
-<li>
-<b>Elsker:</b> du! og spill -///-
-</li>
-<li>
-<b>Kjønn:</b> han/hans/Mann
-</li>
-<li>
-<b>Hobbyer:</b> Lære nye ting, Grafisk design, Spillutvikling
-</li>
-<li>
-<b>Jobber @:</b> Xuply | ejs.team
-</li>
-<br>
-<p><b>     Spesiell takk:<br>
-                  HeaveN.ejs</b></p>
-</div>
-<div>
-<h2 align="left">            ~ 📇 𝓚𝓾𝓷𝓷𝓼𝓴𝓪𝓹 📇 ~</h2>
-<p>
-<img src="https://i.pinimg.com/originals/d6/d6/a0/d6d6a01389c78b441c51fe4eed3d6054.gif"  align="right">
-</div>
-<div>
-<p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
- <img src="https://img.shields.io/badge/C++%20-005aeb.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-9e119a?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/UE4-100000?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-3dc2ff?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/><br><br>
-Mesteparten av tiden min blir brukt på å lage spill med enhetsmotor, det blir veldig kjedelig noen ganger -, -. Men det har fortsatt sin morsomme side. Noen ganger lurer jeg på hvorfor jeg gjør denne dritten, men det er fortsatt bedre å gjøre det jeg elsker.
-</p>
-<br>
-<h2>           📝 ~ 𝓚𝓸𝓷𝓽𝓪𝓴𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.pinimg.com/originals/d5/b6/a7/d5b6a7ee8580da0174c8d243f8e41ec4.gif" align="right" width="300" height="auto">
-<br>
-<p align="center">Here er noen av mine<br>
-mest brukt s-s-sociaw tingene >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/MerutsuSama" target="_blank"><img src="https://img.shields.io/badge/MerutsuSama%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/sjuhyeon%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/merutsudesu" target="_blank"><img src="https://img.shields.io/badge/merutsudesu%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
-</div>
-<br>
-<div>
-<h2 align="center">💖 ~ 𝓣𝓪𝓴𝓴 𝓯𝓸𝓻 𝓪𝓽 𝓭𝓾 𝓵𝓮𝓼𝓽𝓮! ~ 💖</h2>
-<div align="center">
-<img src="https://i.pinimg.com/originals/05/da/fa/05dafa696ac14f8d379401a3623264cc.gif" width="550" height="auto">
-</div>
-<hr>
-</div>
-</div>
+<h1 align="center">Hi 👋, I'm Mert Karaca</h1>
+<h3 align="center">A game/software developer from Turkey</h3>
+<img width="600" align="center" alt="sjuhyeon" src="https://thumbs.gfycat.com/QuestionablePeriodicGharial-size_restricted.gif"></img>
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=sjuhyeon&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-</body>
+- 🔭 I’m currently working on **my own game engine which called `Tymnn`**
+
+- 🌱 I’m currently learning **AI and 3D Model**
+
+- 💬 Ask me about **C#, Game Development and Typescript**
+
+- ⚡ Fun fact **I think I'm funny *-***
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/sjuhyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sjuhyeon" height="30" width="40" /></a>
+<a href="https://twitter.com/sjuhyeonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sjuhyeonn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sjuhyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sjuhyeon" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sjuhyeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sjuhyeon" /></a></p><br><br>
+<br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjuhyeon&show_icons=true&locale=en&layout=compact" alt="sjuhyeon" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sjuhyeon&show_icons=true&locale=en" alt="sjuhyeon" /></p>
