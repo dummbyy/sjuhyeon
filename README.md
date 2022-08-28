@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert Karaca</h1>
 <h3 align="center">A game/software developer from Turkey</h3>
-<img width="600" align="center" alt="sjuhyeon" src="https://thumbs.gfycat.com/QuestionablePeriodicGharial-size_restricted.gif"></img>
+<img width="450" align="center" alt="sjuhyeon" src="https://thumbs.gfycat.com/QuestionablePeriodicGharial-size_restricted.gif"></img>
 
 - 🔭 I’m currently working on **my own game engine which called `Tymnn`**
 
