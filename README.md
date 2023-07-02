@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mert Karaca</h1>
-<h3 align="center">A game/software developer from Norway</h3>
+<h1 align="center">Hi 👋, I'm Mert</h1>
+<h3 align="center">A game/software developer</h3>
 <img width="450" align="center" alt="sjuhyeon" src="https://thumbs.gfycat.com/QuestionablePeriodicGharial-size_restricted.gif"></img>
 
 - 🔭 I’m currently working on **my own game engine which called `Tymnn`**
